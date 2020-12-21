@@ -34,7 +34,7 @@ def send_welcome(message):
 def send_welcome(message):
     bot.reply_to(message, "Згарбов Артём Вадимович, группа БСБО-06-18")
 
-
+#главный метод обрабатывающий приходящие голосовые и аудио сообщения
 @bot.message_handler(content_types=['audio', 'voice'])
 def handle_file(message):
     try:
