@@ -47,5 +47,6 @@
  
 
 <h1>Скриншоты</h1>
-![Image alt](https://github.com/{Ferzerino}/{PythonTelegramAudioBot}/raw/{main}/{path1608547114160.jpg})
+![1608547114160](https://user-images.githubusercontent.com/55505277/102769628-faafa280-4393-11eb-8d9f-959f2d018357.jpg)
+
 
