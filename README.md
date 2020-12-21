@@ -47,4 +47,5 @@
  
 
 <h1>Скриншоты</h1>
-![alt tag](http://http://prntscr.com/w72yl2)​      
+![Image alt](https://github.com/{Ferzerino}/{PythonTelegramAudioBot}/raw/{main}/{path}/1608547114160.jpg)
+
