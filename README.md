@@ -47,4 +47,4 @@
  
 
 <h1>Скриншоты</h1>
-      
+![alt tag](http://http://prntscr.com/w72yl2)​      
